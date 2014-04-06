@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1396714068
+#1396811202
 index.html
 c2runtime.js
 jquery-2.0.0.min.js
@@ -82,6 +82,10 @@ images\touchinstruct-sheet0.png
 images\toucharrow-sheet0.png
 images\soundon-sheet0.png
 images\soundoff-sheet0.png
+images\flower1-sheet0.png
+images\flower4-sheet0.png
+images\flower2-sheet0.png
+images\flower3-sheet0.png
 media\orange%20world%20(loop).m4a
 media\orange%20world%20(loop).ogg
 icon-16.png
